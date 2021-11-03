@@ -7,3 +7,5 @@ To get started simple clone the code with git clone https://github.com/KingVics/
 After cloning, to start your React App simple run npm install or yarn install to install depedencies and that's all. 
 
 Please note you might need to have git install.
+
+Happy Coding!! Side Hustle
