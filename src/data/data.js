@@ -1,0 +1,1 @@
+export const namesArray = ["John", "Mary", "Peter", "Sally"];
